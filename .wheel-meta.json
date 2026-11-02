@@ -1,0 +1,22 @@
+{
+  "wheel_id": 671,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-154",
+  "project": "retaining-wall-installation-brisbane-checklist-2cb238572c696a2f",
+  "parent_t1_ref": "qldretainingandfencing-009",
+  "node_role": "buffer",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installation brisbane checklist",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-installation-brisbane-checklist-2cb238572c696a2f/",
+  "tier": "T2",
+  "writeback_nonce": "4658ab35cfe3bd75",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-installation-brisbane/",
+      "anchor": "this page",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
